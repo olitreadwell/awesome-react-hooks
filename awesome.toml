@@ -1,0 +1,48 @@
+# Configuration for this awesome list. Everything the engine needs
+# beyond README.md lives here.
+
+name = "Awesome React Hooks"
+repo_slug = "awesome-react-hooks"
+readme = "README.md"
+badge = "default"
+
+sections = [
+    "Documentation",
+    "Discussions",
+    "Tutorials",
+    "Videos",
+    "Podcasts",
+    "Tools",
+    "Catalogs",
+    "Packages",
+]
+
+[site]
+# The template has no site generator yet, so this stays off.
+enabled = false
+
+[links]
+archive = "off"
+exclude = []
+allowlist = [
+    # GitHub repositories that are gone. The npm packages still ship for most
+    # of them, so the entry stays where upstream put it and a maintainer
+    # decides whether it points at npm or comes out of the list.
+    "https://github.com/kevinwolfcr/formal",
+    "https://github.com/yeskunall/react-dom-status-hook",
+    "https://github.com/grug/react-use-fetch-with-redux/",
+    "https://github.com/mfrachet/reaktion",
+    "https://github.com/pedronasser/resynced",
+    "https://github.com/lowewenzel/use-autocomplete",
+    "https://github.com/tedstoychev/use-reactive-state",
+    "https://github.com/geobde/use-scroller",
+    "https://github.com/BRA1L0R/use-videocard",
+    "https://github.com/frankiesardo/use-reducer-with-effects",
+]
+
+[github]
+stats = true
+max_age_days = 14
+
+[tags]
+# This list carries no tag vocabulary, so every entry opts out of tags.

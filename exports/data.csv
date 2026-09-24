@@ -1,0 +1,263 @@
+section,group,name,url,description,tags,stars,last_push,line
+Documentation,,React Hooks Docs,https://reactjs.org/docs/hooks-intro.html,,,,,18
+Discussions,,React Hooks RFC,https://github.com/reactjs/rfcs/pull/68,"★ 5,811 stars, last push 2024-06-11.",,,,22
+Tutorials,,"""Making Sense of React Hooks"" by Dan Abramov",https://medium.com/@dan_abramov/making-sense-of-react-hooks-fdbde8803889,,,,,26
+Tutorials,,"""From React.Component to hooks"" by Octave Raimbault",https://medium.com/@dispix/from-react-component-to-hooks-b50241334365,,,,,27
+Tutorials,,"""React Hooks: What’s going to happen to my tests?"" by Kent C. Dodds",https://blog.kentcdodds.com/react-hooks-whats-going-to-happen-to-my-tests-df4c2b4d67b7,,,,,28
+Tutorials,,"""State Management with React Hooks - No Redux or Context API"" by André Gardi",https://medium.com/javascript-in-plain-english/state-management-with-react-hooks-no-redux-or-context-api-8b3035ceecf8,,,,,29
+Tutorials,,"""How to Fetch Data with React Hooks?"" by Robin Wieruch",https://www.robinwieruch.de/react-hooks-fetch-data/,,,,,30
+Tutorials,,Primer on React Hooks,https://testdriven.io/blog/react-hooks-primer/,,,,,31
+Tutorials,,React Hooks - A deeper dive featuring useContext and useReducer,https://testdriven.io/blog/react-hooks-advanced/,,,,,32
+Tutorials,,"""Using Custom React Hooks to Simplify Forms"" by James King",https://upmostly.com/tutorials/using-custom-react-hooks-simplify-forms,,,,,33
+Tutorials,,Testing of a Custom React Hook for Fetching Data with Axios,https://dev.to/doppelmutzi/testing-of-a-custom-react-hook-for-fetching-data-with-axios-4gf1,,,,,34
+Tutorials,,The Guide to Learning React Hooks (Examples & Tutorials) by Eric Bishard,https://www.telerik.com/kendo-react-ui/react-hooks-guide/,,,,,35
+Tutorials,,"""Sanely Testing React Hooks"" by Dave Cooper",https://dev.to/grug/sanely-testing-react-hooks-2l1j,,,,,36
+Tutorials,,React by Example: Hooks,https://reactbyexample.github.io/hooks,,,,,37
+Videos,,🎬 ReactConf 2018: React Today and Tomorrow by Sophie Alpert and Dan Abramov,https://youtu.be/V-QO-KO90iQ,Official announcement and first demo.,,,,41
+Videos,,🎬 ReactConf 2018: 90% Cleaner React by Ryan Florence,https://youtu.be/wXLf18DsV-I,,,,,42
+Videos,,🎬 React Hooks: A Complete Introduction by Harry Wolff,https://youtu.be/jd8R0a2Ur8Q,,,,,43
+Videos,,🎬 React Hooks playlist by Ben Awad,https://www.youtube.com/playlist?list=PLN3n1USn4xllL1OrVr-A4oq7SG-cS9MOQ,,,,,44
+Videos,,🎬 React Hooks playlist by Josh Ribakoff,https://www.youtube.com/playlist?list=PLj2oFNVaxfJ-AcPo191jz09g-v9CLRfCg,,,,,45
+Videos,,🎬 React Hooks playlist by Michael Chan,https://www.youtube.com/playlist?list=PLnc_NxpmOxaNf_mTUx1BgoP5POXwSAu-g,,,,,46
+Videos,,🎬 Custom Hooks in React by Tanner Linsley,https://www.youtube.com/watch?v=J-g9ZJha8FE,,,,,47
+Podcasts,,"React Hooks - Syntax (Nov 14th, 2018)",https://syntax.fm/show/092/react-hooks,,,,,51
+Podcasts,,"React Hooks 1 Year Later - Syntax (Mar 18, 2020)",https://syntax.fm/show/232/react-hooks-1-year-later,,,,,52
+Podcasts,,"Why should I use React Hooks? - Syntax (Dec 7th, 2020)",https://syntax.fm/show/307/hasty-treat-why-should-i-use-react-hooks,,,,,53
+Tools,,eslint-plugin-react-hooks,https://www.npmjs.com/package/eslint-plugin-react-hooks,,,,,57
+Tools,,hooks.macro,https://www.npmjs.com/package/hooks.macro,Babel Macros for automatic memoization invalidation.,,,,58
+Tools,,CodeSandbox Starter Kit,https://codesandbox.io/s/7y6o4282lq,,,,,59
+Tools,,React Hooks Snippets for VS Code,https://marketplace.visualstudio.com/items?itemName=antmdvs.vscode-react-hooks-snippets,,,,,60
+Tools,,hook-into-props,https://github.com/juliettepretot/hook-into-props/tree/1e069a6c01c2a783100f2fea7709f56d8166a97e,Helper to build HOCs using hooks. Useful for using hooks with class components.,,47,2023-02-28,61
+Tools,,react-universal-hooks,https://github.com/salvoravida/react-universal-hooks,"React Universal Hooks: just use****** everywhere, Functional or Class Components",,187,2023-01-06,62
+Tools,,Jooks,https://github.com/antoinejaussoin/jooks,"Unit-test your custom hooks by mocking React's Hooks API (useState, etc.)",,82,2023-03-15,63
+Tools,,react-hooks-testing-library,https://react-hooks-testing-library.com/,Library to create unit tests for custom React hooks.,,,,64
+Catalogs,,@react-hookz/web,https://github.com/react-hookz/web,A library of general-purpose React hooks built with care and SSR compatibility in mind.,,2216,2026-09-24,68
+Catalogs,,ahooks,https://github.com/alibaba/hooks,A collection of React Hooks specifically aiming at enterprise applications.,,14974,2026-09-22,69
+Catalogs,,beautiful-react-hooks(🔥),https://beautifulinteractions.github.io/beautiful-react-hooks/,A collection of hooks to speed-up your components and custom hooks development.,,,,70
+Catalogs,,Captain hook,https://github.com/stevenpersia/captain-hook,Modest list of hooks.,,361,2021-04-18,71
+Catalogs,,crooks,https://github.com/chrisjpatty/crooks,A collection of unique React Hooks.,,214,2023-03-19,72
+Catalogs,,hooks-by-example,https://github.com/latviancoder/hooks-by-example,Collection of beginner-friendly real world examples of hook usage.,,135,2019-10-31,73
+Catalogs,,Hooks.guide,https://hooks-guide.netlify.app/,Collection of React hooks curated by the community.,,,,74
+Catalogs,,Searchable Collection of React Hooks,https://nikgraf.github.io/react-hooks/,,,,,75
+Catalogs,,Sunflower(🌻),https://github.com/ant-design/sunflower,Collection of React Hooks returning components of antd.,,490,2023-02-04,76
+Catalogs,,useHooks(🐠),https://usehooks.com/,One new React Hook recipe every day.,,,,77
+Catalogs,,Use Hooks,https://use-hooks.org/,A collection of reusable React Hooks.,,,,78
+Packages,,@21kb/react-hooks,https://github.com/21kb/react-hooks,A set of React Hooks to get hooked on.,,55,2026-07-31,82
+Packages,,@d2k/react-devto,https://github.com/bdbch/react-devto,React hook for Dev.to API requests,,20,2020-07-09,83
+Packages,,@d2k/react-github,https://github.com/bdbch/react-github,React hook for Github API requests,,10,2019-08-14,84
+Packages,,@d2k/react-localstorage,https://github.com/bdbch/react-localstorage,React hook that handles updating and clearing localstorage values while keeping them in sync with your components.,,12,2023-05-06,85
+Packages,,@elgorditosalsero/react-gtm-hook,https://github.com/elgorditosalsero/react-gtm-hook,React hook for handle easily the Google Tag Manager.,,223,2024-07-04,86
+Packages,,@hookstate/core,https://github.com/avkonst/hookstate,"Modern, very fast and extendable state management for React.",,1652,2025-03-20,87
+Packages,,@jzone/react-request-hook,https://github.com/zhixiaoqiang/react-request-hook,"🐶React hook for custom request，compatible with various lib, support redux",,11,2023-06-29,88
+Packages,,@kevinwolf/formal,https://github.com/kevinwolfcr/formal,Elegant form management primitives for the react hooks era.,,,,89
+Packages,,@koale/useworker,https://github.com/alewin/useWorker,"⚙️ Running heavy task in background using web workers, without blocking the UI",,3112,2026-06-06,90
+Packages,,@marvelsq/use-properties-hook,https://github.com/MarvelSQ/use-properties-hook,Instance functions inside FunctionComponent like `class-properties` and equal in `ShallowCompare`,,6,2019-03-10,91
+Packages,,@rehooks/component-size,https://github.com/rehooks/component-size,React hook for determining the size of a component.,,238,2023-02-05,92
+Packages,,@rehooks/document-title,https://github.com/rehooks/document-title,React hook for updating the document-title.,,60,2021-09-01,93
+Packages,,@rehooks/document-visibility,https://github.com/rehooks/document-visibility,React hook for subscribing to document visibility.,,29,2018-12-06,94
+Packages,,@rehooks/input-value,https://github.com/rehooks/input-value,React hook for creating input values.,,111,2021-09-01,95
+Packages,,@rehooks/local-storage,https://github.com/rehooks/local-storage,React hook which syncs `localStorage[key]` with the comp.,,569,2023-08-23,96
+Packages,,@rehooks/network-status,https://github.com/rehooks/network-status,React hook for getting network-status.,,66,2021-09-01,97
+Packages,,@rehooks/online-status,https://github.com/rehooks/online-status,React Hook for Online status.,,123,2022-02-11,98
+Packages,,@rehooks/window-scroll-position,https://github.com/rehooks/window-scroll-position,React hook for getting window `x` and `y` position.,,82,2021-09-01,99
+Packages,,@rehooks/window-size,https://github.com/rehooks/window-size,React hook for subscribing to window size.,,131,2021-09-01,100
+Packages,,@rekindle/use-request,https://github.com/react-rekindle/use-request,🤖 React hook for making request.,,21,2023-01-07,101
+Packages,,@rkrupinski/use-state-machine,https://github.com/rkrupinski/use-state-machine,A finite state machine hook.,,18,2023-01-19,102
+Packages,,@staltz/use-profunctor-state,https://github.com/staltz/use-profunctor-state,React Hook for state management with Profunctor Optics,,331,2020-01-13,103
+Packages,,@webscopeio/react-health-check,https://github.com/webscopeio/react-health-check,🏥 Lightweight React hook for checking health of API services.,,35,2023-03-06,104
+Packages,,@wellyshen/use-web-animations,https://github.com/wellyshen/use-web-animations,🍿 React hook for highly-performant and manipulable animations using Web Animations API.,,1270,2023-08-12,105
+Packages,,@withvoid/melting-pot,https://github.com/withvoid/melting-pot,React hook utility library.,,59,,106
+Packages,,ahooks/usetable,https://github.com/ahooksjs/useTable,A Progressive Solution for Query Table Scene.,,46,2022-11-19,107
+Packages,,concent,https://github.com/concentjs/concent,"State management that tailored for react, it is simple, predictable, progressive and efficient.",,1387,2026-07-20,108
+Packages,,constate,https://github.com/diegohaz/constate,Transform your local state into global state using `useContextState` and `useContextReducer`.,,4006,2026-09-22,109
+Packages,,conuse,https://github.com/fodau/conuse,Share Hook with Context,,8,2023-01-07,110
+Packages,,easy-peasy,https://github.com/ctrlplusb/easy-peasy,Easy peasy global state for React.,,5040,2026-06-30,111
+Packages,,fetch-suspense,https://github.com/CharlesStover/fetch-suspense,React hook for the Fetch API with support for Suspense.,,491,,112
+Packages,,graphql-hooks,https://github.com/nearform/graphql-hooks,Minimal hooks-first GraphQL client.,,1887,2026-09-01,113
+Packages,,mobx-react-lite,https://github.com/mobxjs/mobx-react-lite,Lightweight React bindings for MobX based on experimental React hooks.,,2118,,114
+Packages,,modali,https://github.com/upmostly/modali,"A delightful modal dialog component for React, built from the ground up to support React Hooks.",,210,2022-12-09,115
+Packages,,moment-hooks,https://github.com/momentechnologies/moment-hooks,A library containing generic react hooks,,8,2023-07-24,116
+Packages,,nice-hooks,https://github.com/daniel-dx/nice-hooks,🍹 A lot of nice hooks to make react hooks easier to use ( useState callback / life cycle / instance variable),,48,2023-05-28,117
+Packages,,promise-hook,https://github.com/aiven715/promise-hook,React hook for simplifying Promise based data fetching.,,52,2019-11-15,118
+Packages,,reactive-react-redux,https://github.com/dai-shi/reactive-react-redux,React Redux binding with React Hooks and Proxy,,500,2024-01-12,119
+Packages,,react-async-hook,https://github.com/slorber/react-async-hook,React hook to fetch ad-hoc data into your React components.,,1187,2023-07-08,120
+Packages,,react-cached-callback,https://github.com/megazazik/react-cached-callback,"React hooks for caching many callbacks by key, for example, in loops.",,10,2025-11-15,121
+Packages,,react-context-refs,https://github.com/megazazik/react-context-refs,React hooks for getting refs of elements via context.,,22,2025-11-15,122
+Packages,,react-cookie,https://github.com/reactivestack/cookies,React hooks for universal cookies.,,215,2026-05-09,123
+Packages,,react-cool-dimensions,https://github.com/wellyshen/react-cool-dimensions,📏 React hook to measure an element's size and handle responsive components.,,934,2023-08-12,124
+Packages,,react-cool-form,https://github.com/wellyshen/react-cool-form,"📋 React hooks for forms state and validation, less code more performant.",,244,,125
+Packages,,react-cool-inview,https://github.com/wellyshen/react-cool-inview,🖥️ React hook to monitor an element enters or leaves the viewport (or another element).,,1451,2023-08-12,126
+Packages,,react-cool-onclickoutside,https://github.com/wellyshen/react-cool-onclickoutside,🖱 React hook to listen for clicks outside of the component(s).,,551,2023-08-12,127
+Packages,,react-cool-portal,https://github.com/wellyshen/react-cool-portal,"🍒 React hook for Portals, which renders modals, dropdowns, tooltips etc. to  or else.",,731,2023-08-12,128
+Packages,,react-cool-virtual,https://github.com/wellyshen/react-cool-virtual,♻️ A tiny React hook for rendering large datasets like a breeze.,,1221,2023-08-12,129
+Packages,,react-countdown-hook,https://github.com/alexkhismatulin/react-use-count-down,Dead simple yet powerful countdown hook for React. Powered by `requestAnimationFrame`.,,75,2024-03-01,130
+Packages,,react-darkreader,https://github.com/Turkyden/react-darkreader,🌓 A React Hook for adding a dark / night mode to your site inspired by darkreader.,,279,2023-04-13,131
+Packages,,react-declare-form,https://github.com/andy9775/react-declare-form,React hook based declarative form library.,,0,2018-11-18,132
+Packages,,react-deep-hooks,https://github.com/codeshake/react-deep-hooks,React hooks for non-primitive dependencies.,,4,2025-10-25,133
+Packages,,react-dom-status-hook,https://github.com/yeskunall/react-dom-status-hook,React hook for subscribing to the `DOMContentLoaded` event.,,,,134
+Packages,,react-enhanced-reducer-hook,https://github.com/shiningjason/react-enhanced-reducer-hook,An alternative to `useReducer` that accepts middlewares.,,70,2024-08-30,135
+Packages,,react-fetch-hook,https://github.com/ilyalesik/react-fetch-hook,React hook for conveniently use Fetch API.,,350,2023-01-06,136
+Packages,,react-firebase-hooks,https://github.com/csfrequency/react-firebase-hooks,A collection of hooks for use with Firebase.,,3631,2024-04-22,137
+Packages,,react-form-stateful,https://github.com/ckedwards/react-form-stateful,Form library. Exposes dispatch to allow for the library to be extended through side effects.,,2,,138
+Packages,,react-hanger,https://github.com/kitze/react-hanger,A small collection of utility hooks.,,1929,2026-09-18,139
+Packages,,react-hook-mighty-mouse,https://github.com/mkosir/react-hook-mighty-mouse,React hook that tracks mouse events on selected element 🐭,,125,2022-01-15,140
+Packages,,react-hook-mousetrap,https://www.npmjs.com/package/react-hook-mousetrap,"A hook to trigger callbacks on keys or keys combos, powered by mousetrap.",,,,141
+Packages,,react-hookedup,https://github.com/zakariaharti/react-hookedup,A collection of useful React hooks.,,87,2023-01-04,142
+Packages,,react-hook-form,https://github.com/bluebill1049/react-hook-form,Form validation without the hassle.,,44865,2026-09-22,143
+Packages,,react-hook-layout,https://github.com/ytiurin/react-hook-layout,Layout management in React.,,18,2023-01-06,144
+Packages,,react-hooks-async,https://github.com/dai-shi/react-hooks-async,React custom hooks for async functions with abortability and composability,,494,2023-03-04,145
+Packages,,react-hooks-global-state,https://github.com/dai-shi/react-hooks-global-state,A simple global state management.,,1096,2023-08-29,146
+Packages,,react-hooks-image-size,https://github.com/use-hooks/react-hooks-image-size,Hook to get natural image size from url.,,18,2019-05-16,147
+Packages,,react-hooks-lib,https://github.com/beizhedenglong/react-hooks-lib,A set of reusable react hooks.,,542,2021-08-06,148
+Packages,,react-hooks-svgdrawing,https://github.com/kmkzt/react-hooks-svgdrawing,A hooks to svg drawing.,,202,2026-02-28,149
+Packages,,react-hooks-use-modal,https://github.com/shibe97/react-hooks-use-modal,A hook to open the modal easily.,,170,2026-07-15,150
+Packages,,react-hooks-visible,https://github.com/kmkzt/react-hooks-visible,A hook to element visibility. Uses the intersection observer API.,,29,2026-02-25,151
+Packages,,react-hooks-worker,https://github.com/dai-shi/react-hooks-worker,React custom hooks for web workers,,711,2023-03-05,152
+Packages,,react-hotkey-hook,https://github.com/JohannesKlauss/react-hotkeys-hook,React hook for hotkeys.,,3504,2026-09-21,153
+Packages,,react-i18next,https://react.i18next.com/latest/usetranslation-hook,Internationalization for react done right.,,,,154
+Packages,,react-immer-hooks,https://github.com/sin/react-immer-hooks,useState and useReducer using Immer to update state.,,45,2018-10-27,155
+Packages,,react-indicative-hooks,https://github.com/marceloadsj/react-indicative-hooks,Hooks wrapping a data validation library called Indicative,,6,,156
+Packages,,react-intersection-visible-hook,https://github.com/AvraamMavridis/react-intersection-visible-hook,React hook to track the visibility of a functional component.,,48,2018-10-30,157
+Packages,,react-media-hook,https://github.com/lessmess-agency/react-media-hook,React hook for Media Queries.,,61,2026-04-02,158
+Packages,,react-metatags-hook,https://github.com/lordgiotto/react-metatags-hook,React Hook to manage html meta tags.,,37,2024-06-18,159
+Packages,,react-native-react-bridge,https://github.com/inokawa/react-native-react-bridge,A React Native plugin to run React and handle communication between them.,,298,2026-06-13,160
+Packages,,react-optimistic-ui-hook,https://github.com/mamal72/react-optimistic-ui-hook,"⚛️ Minimal ""optimistic UI"" pattern implementation with a React hook",,24,2023-01-05,161
+Packages,,react-page-name,https://github.com/RyanFitzgerald/react-page-name,React Hook for managing the page title.,,4,2023-01-04,162
+Packages,,react-peer-data,https://github.com/vardius/react-peer-data,"React wrapper for PeerData library for files, media streaming/sharing using WebRTC.",,20,2022-12-10,163
+Packages,,react-pirate,https://github.com/dispix/react-pirate,React lifecycle and utilities hooks.,,52,2021-08-11,164
+Packages,,react-powerhooks,https://github.com/kalcifer/react-powerhooks,Hooks api for react-powerplug components.,,99,2022-12-09,165
+Packages,,react-promiseful,https://github.com/moxystudio/react-promiseful,A React component and hook to render children conditionally based on a promise status.,,9,2020-03-15,166
+Packages,,react-query,https://github.com/tannerlinsley/react-query,"Hooks for fetching, caching and updating asynchronous data in React.",,50353,2026-09-23,167
+Packages,,react-recaptcha-hook,https://github.com/hupe1980/react-recaptcha-hook,React hook for google-recaptcha v3,,25,2023-02-04,168
+Packages,,react-recipes,https://github.com/craig1123/react-recipes,👩‍🍳 Collection of essential hook recipes 🥘,,1045,2025-05-23,169
+Packages,,react-request-hook,https://github.com/schettino/react-request-hook,"Managed, cancelable and safe-oriented api requests.",,113,2022-12-09,170
+Packages,,react-responsive,https://github.com/contra/react-responsive,React media query module.,,7176,2025-03-01,171
+Packages,,react-rocketjump,https://github.com/inmagik/react-rocketjump,Manage state and side effects like a breeze.,,6,2023-03-04,172
+Packages,,react-screen-wake-lock,https://github.com/jorisre/react-screen-wake-lock,React implementation of the Screen Wake Lock API. It provides a way to prevent devices from dimming or locking the screen when an application needs to keep running,,80,2025-04-15,173
+Packages,,react-script-hook,https://github.com/hupe1980/react-script-hook,React hook to dynamically load an external script and know when its loaded,,128,2023-04-07,174
+Packages,,react-selector-hooks,https://github.com/Andarist/react-selector-hooks,Collection of hook-based memoized selector factories for declarations outside of render.,,85,2018-10-29,175
+Packages,,react-speech-kit,https://github.com/MikeyParton/react-speech-kit,Hooks for browser Speech Recognition and Speech Synthesis.,,246,2023-07-01,176
+Packages,,react-state-patterns,https://github.com/mcclayton/react-state-patterns,Utility package for creating reusable implementations of React state provider patterns from hooks.,,16,2023-01-07,177
+Packages,,react-swipeable,https://github.com/dogfessional/react-swipeable,React swipe event handler hook.,,2112,2024-12-23,178
+Packages,,react-tracked,https://github.com/dai-shi/react-tracked,Simple and fast global state with React Context. Eliminate unnecessary re-renders without hassle.,,2820,2026-05-19,179
+Packages,,react-uniformed,https://github.com/j-a-y-h/react-uniformed,🚀 Declarative React forms using hooks.,,6,2023-01-07,180
+Packages,,react-use-api,https://github.com/RyanRoll/react-use-api,"Async HTTP request data for axios. Designed for diverse UI states, SSR and data pre-caching.",,63,2023-01-06,181
+Packages,,react-use-browser,https://github.com/crossroads-loyalty-solutions/react-use-browser,A hook enabling client side hydration of Server-Side-Rendered components when server-produced markup needs to differ from the final client application markup.,,5,2020-06-26,182
+Packages,,react-use-calendar,https://github.com/gregnb/react-use-calendar,A hook for implementing a calendar with events.,,56,2019-03-01,183
+Packages,,react-use-clipboard,https://github.com/danoc/react-use-clipboard,A hook that copies text to a user's clipboard.,,262,2023-10-24,184
+Packages,,react-use-d3,https://github.com/inokawa/react-use-d3,A React hook to use D3.,,7,,185
+Packages,,react-use-data-loader,https://github.com/smmoosavi/react-use-data-loader,React hook for loading data,,22,2021-09-21,186
+Packages,,react-use-fetch-factory,https://github.com/JohannesKlauss/react-use-fetch-factory,React hook that takes care of fetching and selecting data with redux.,,3,2023-01-27,187
+Packages,,react-use-fetch-with-redux,https://github.com/grug/react-use-fetch-with-redux/,React hook that caches API requests that works with redux.,,,,188
+Packages,,react-use-form-state,https://github.com/wsmd/react-use-form-state,React hook for managing form and inputs state.,,927,2023-01-04,189
+Packages,,react-use-id-hook,https://github.com/Yaska/react-use-id-hook,React hook for generating SSR-safe unique id strings.,,5,2026-02-13,190
+Packages,,react-use-idb,https://github.com/kigiri/react-use-idb,React hook for storing value in the browser using `indexDB`.,,44,2020-05-11,191
+Packages,,react-use-infinite-loader,https://github.com/CurationCorp/react-use-infinite-loader,♾️ :page_with_curl: :hourglass_flowing_sand: Super lightweight infinite loading (scroll) hook for React apps,,14,2021-11-12,192
+Packages,,react-use-input,https://github.com/robcalcroft/react-use-input,🎣 A hook whose setter can be directly given to HTML inputs,,5,2023-03-04,193
+Packages,,react-use-lazy-load-image,https://github.com/robcalcroft/react-use-lazy-load-image,🌅 :zap: Add image lazy loading to your React app with ease,,15,2023-01-04,194
+Packages,,react-use-message-bar,https://github.com/intercaetera/react-use-message-bar,A simple React hook for message bars.,,11,2026-04-15,195
+Packages,,react-use-modal,https://github.com/wowlusitong/react-use-modal,React hook for manage modal.,,20,2023-01-26,196
+Packages,,react-use-path,https://github.com/zhangkaiyulw/react-use-path,The tiniest hook style react router.,,21,2025-01-05,197
+Packages,,react-use-scroll-position,https://github.com/neo/react-use-scroll-position,React hook for using the scroll position.,,44,2019-06-01,198
+Packages,,react-use-trigger,https://github.com/ilyalesik/react-use-trigger,React hook for trigger effect from any place of code,,26,2023-03-02,199
+Packages,,react-use-watch,https://github.com/iam-frankqiu/react-use-watch,A React hook about triggers once only when dependencies have changed.,,3,2021-08-19,200
+Packages,,react-use-wavelet,https://github.com/perlin-network/react-use-wavelet,React hooks for connecting to the Wavelet smart-contract platform,,5,,201
+Packages,,react-use,https://github.com/streamich/react-use,Collection of essential hooks.,,44010,2026-06-10,202
+Packages,,react-useFormless,https://github.com/GeDiez/react-use-formless,React hook to handle forms state.,,50,2022-06-04,203
+Packages,,react-usemiddleware,https://github.com/venil7/react-usemiddleware,React hook for using existing Redux middlewares (like thunk or saga) with `useReducer`.,,18,2018-12-02,204
+Packages,,react-useportal,https://github.com/alex-cory/react-useportal,"🌀 usePortal, React hook for Portals",,886,2026-07-14,205
+Packages,,react-user-media,https://github.com/vardius/react-user-media,React wrapper for `navigator.getUserMedia`.,,20,2022-12-10,206
+Packages,,react-wait,https://github.com/f/react-wait,Complex Loader Management Hook for React Applications.,,305,2019-08-22,207
+Packages,,react-window-communication-hook,https://github.com/AvraamMavridis/react-window-communication-hook,"React hook to communicate among browser contexts (tabs, windows, iframes).",,91,2020-12-28,208
+Packages,,react-with-hooks,https://github.com/yesmeck/react-with-hooks,Ponyfill for the proposed React Hooks API.,,153,2019-02-15,209
+Packages,,reaktion,https://github.com/mfrachet/reaktion,useState like hook for global state management.,,,,210
+Packages,,redhooks,https://github.com/iusehooks/redhooks,Global state management with React Hooks. It also supports the use of middleware like redux-thunk or redux-saga or your own custom middleware.,,145,2019-02-11,211
+Packages,,redux-react-hook,https://github.com/ianobermiller/redux-react-hook,React hook for accessing mapped state from a Redux store.,,37,,212
+Packages,,region-core,https://github.com/regionjs/region-core,A global state management framework with a hook `useProps`.,,117,2026-06-08,213
+Packages,,rehooks-visibility-sensor,https://github.com/imbhargav5/rehooks-visibility-sensor,It checks whether an element has scrolled into view or not.,,13,2018-11-29,214
+Packages,,resynced,https://github.com/pedronasser/resynced,Multiple state management using React Hooks API.,,,,215
+Packages,,reto,https://awmleer.github.io/reto,Flexible and efficient React store with hooks.,,,,216
+Packages,,rrh,https://github.com/brn/rrh,Super Simple React Hooks for react-redux.,,14,2019-03-20,217
+Packages,,rxjs-hooks,https://github.com/LeetCode-OpenSource/rxjs-hooks,An easy way to use RxJS v6+ with react hooks.,,2177,2023-04-07,218
+Packages,,scroll-data-hook,https://github.com/dejorrit/scroll-data-hook,"Returns information about scroll speed, distance, direction and more.",,141,2023-01-05,219
+Packages,,style-hook,https://github.com/style-hook/style-hook,🎨 wirte css in js with react hooks.,,14,,220
+Packages,,swr,https://github.com/zeit/swr,React Hooks library for remote data fetching.,,32489,2026-09-22,221
+Packages,,the-platform,https://github.com/palmerhq/the-platform,Browser API's turned into React Hooks and Suspense-friendly React elements for common situations.,,4369,2022-12-09,222
+Packages,,trousers,https://github.com/danieldelcore/trousers,"👖 A hooks-first CSS-in-JS library, focused on semantics and runtime performance",,299,2025-06-11,223
+Packages,,use-abortable-fetch,https://github.com/mauricedb/use-abortable-fetch,React hook that does a fetch and aborts when the components is unloaded or a different request is made.,,159,2026-09-16,224
+Packages,,use-action,https://github.com/awmleer/use-action,"Almost same to useEffect, but not deferred.",,15,2022-12-03,225
+Packages,,use-as-bind,https://github.com/tylervipond/use-as-bind,React hook for using as-bind with a WASM source.,,66,2024-04-23,226
+Packages,,use-async-memo,https://github.com/awmleer/use-async-memo,React hook for generating async memoized data.,,146,2023-12-01,227
+Packages,,use-autocomplete,https://github.com/lowewenzel/use-autocomplete,A React hook for returning autocomplete values for a search string within an array.,,,,228
+Packages,,use-axios-react,https://github.com/sergey-s/use-axios-react,"React CRUD hooks for axios, comprehensive list of examples",,32,2023-01-04,229
+Packages,,use-boolean,https://github.com/mykolaharmash/use-boolean,Convenient helpers for handling boolean state.,,11,2020-07-08,230
+Packages,,use-browser-history,https://github.com/zcallan/use-browser-history,A React hook to handle browser history events.,,3,2019-02-15,231
+Packages,,use-cart,https://github.com/samjbmason/use-cart,A React hook that gives you shopping cart functionality.,,31,,232
+Packages,,use-click-away,https://github.com/geobde/use-click-away,React hook when you want a callback invoked when a DOM element was not clicked.,,79,2026-05-09,233
+Packages,,use-clippy,https://github.com/CharlesStover/use-clippy,A React hook to reading from and writing to the user's clipboard.,,177,2022-11-09,234
+Packages,,use-context-selector,https://github.com/dai-shi/use-context-selector,React useContextSelector hook in userland.,,2960,2026-06-08,235
+Packages,,use-controlled-input-number,https://github.com/d-asensio/use-controlled-input-number,React hook to turn numeric input behavior into pretty much what you expect.,,3,2022-03-07,236
+Packages,,use-countries,https://github.com/oktaysenkan/use-countries,Custom react hook to list countries and languages.,,25,2020-03-14,237
+Packages,,use-debounce,https://github.com/xnimorz/use-debounce,A debounce (and throttle) hook for React.,,3385,2026-09-11,238
+Packages,,use-deep-compare,https://github.com/sandiiarov/use-deep-compare,"It's react's useEffect/useMemo/useCallback hooks, except using deep comparison on the inputs.",,259,2026-08-11,239
+Packages,,use-deep-compare-effect,https://github.com/kentcdodds/use-deep-compare-effect,"🐋 It's react's useEffect hook, except using deep comparison on the inputs, not reference equality.",,1917,2024-08-21,240
+Packages,,use-detect-print,https://github.com/gregnb/use-detect-print,React hook to detect when a page is being printed.,,59,2023-01-03,241
+Packages,,use-dimensions,https://github.com/CharlesStover/use-dimensions,React Native hook for getting screen and window dimensions.,,31,,242
+Packages,,use-double-click,https://github.com/zattoo/use-double-click,React hook for continuous double-clicks and combining click and double-click events,,19,2026-05-27,243
+Packages,,use-eazy-auth,https://github.com/gffuma/use-eazy-auth,React hooks for handle auth stuff.,,57,2026-02-20,244
+Packages,,use-events,https://github.com/sandiiarov/use-events,A set of React Hooks to handle mouse events.,,494,2026-09-18,245
+Packages,,use-force-update,https://github.com/CharlesStover/use-force-update,React hook for forcing re-render of a functional Component.,,184,2025-11-12,246
+Packages,,use-hotkeys,https://github.com/sandiiarov/use-hotkeys,"HotKeys.js React Hook that listen to keydown and keyup keyboard events, defining and dispatching keyboard shortcuts.",,17,,247
+Packages,,use-hovering,https://github.com/therealparmesh/use-hovering,"Simple, accessible React hook for tracking hover state.",,13,2026-09-18,248
+Packages,,use-http,https://github.com/alex-cory/use-http,"🐶 useFetch, React hook for making isomorphic http requests.",,2298,2024-02-07,249
+Packages,,use-immer,https://github.com/mweststrate/use-immer,A hook to use immer to manipulate state.,,4552,2024-12-17,250
+Packages,,use-input-file,https://github.com/neighborhood999/use-input-file,React hook for creating input file.,,3,2023-01-08,251
+Packages,,use-is-mounted-ref,https://github.com/helderburato/use-is-mounted-ref,`useIsMountedRef` is a React Hook to check when the component is mounted.,,44,2026-09-15,252
+Packages,,use-lang-direction,https://github.com/davidicus/use-lang-direction,A hook that reads the HTML element's `dir` attribute value and any updates to that value allowing you to update your UI accordingly.,,,2023-04-04,253
+Packages,,use-last-fm,https://github.com/webmail/use-last-fm,A hook to show your current playing song from Spotify or any other site last.fm supports in realtime. ♪,,122,2024-04-20,254
+Packages,,use-lilius,https://github.com/its-danny/use-lilius,A headless calendar hook for React.,,275,2024-09-01,255
+Packages,,use-media,https://github.com/streamich/use-media,CSS media queries with React hook.,,524,2025-09-14,256
+Packages,,use-mouse-action,https://github.com/dimitrinicolas/use-mouse-action,React Hooks to listen to both mouse down or up and click events with a once called function.,,23,2020-12-11,257
+Packages,,use-multiselect,https://github.com/jschloer/use-multiselect,Manage multiselect state.,,8,2023-01-03,258
+Packages,,use-overflow,https://github.com/amorriscode/use-overflow,A React Hook that allows you to detect X and Y overflow,,30,2023-04-08,259
+Packages,,use-places-autocomplete,https://github.com/wellyshen/use-places-autocomplete,📍 React hook for Google Maps Places Autocomplete.,,1292,2025-04-02,260
+Packages,,use-popper,https://github.com/sandiiarov/use-popper,React hook wrapper around Popper.js.,,37,,261
+Packages,,use-query-params,https://github.com/pbeshai/use-query-params,A React Hook for managing state in URL query parameters with easy serialization.,,2235,2026-01-21,262
+Packages,,use-react-modal,https://github.com/alex-cory/use-react-modal,"🖼 useModal, React hook for Modals/Dialogs/Lightboxes",,79,2023-01-07,263
+Packages,,use-react-router,https://github.com/CharlesStover/use-react-router,React Hook for pub-sub behavior using React Router.,,563,,264
+Packages,,use-reactive-state,https://github.com/tedstoychev/use-reactive-state,`useReactiveState()` - a reactive alternative to React's `useState()`.,,,,265
+Packages,,use-reducer-async,https://github.com/dai-shi/use-reducer-async,React useReducer with async actions,,184,2026-05-19,266
+Packages,,use-redux,https://github.com/flepretre/use-redux,A hook to bind redux.,,62,,267
+Packages,,use-scroller,https://github.com/geobde/use-scroller,"React hook that automatically adds the next page, saving users from a full page load.",,,,268
+Packages,,use-scroll-to-bottom,https://github.com/tudorgergely/use-scroll-to-bottom,React hook for detecting when an element was scrolled to bottom.,,108,2023-04-18,269
+Packages,,use-simple-undo,https://github.com/sandiiarov/use-simple-undo,Simple implementation of undo/redo functionality.,,30,2026-09-18,270
+Packages,,server-push-hooks,https://github.com/mfrachet/server-push-hooks,"🔥 React hooks for socket.io, SEE and more to come",,193,2023-11-14,271
+Packages,,use-socket.io-client,https://github.com/iamgyz/use-socket.io-client,"React hook for socket.io-client, manipulate socket.io client without any side effect.",,51,2020-04-03,272
+Packages,,use-sse,https://github.com/kmoskwiak/useSSE,✨useSSE - use Server-Side Effect. `useEffect` both on client and server side.,,143,2024-07-05,273
+Packages,,use-ssr,https://github.com/alex-cory/use-ssr,"☯️ React hook to determine if you are on the server, browser, or react native.",,263,2023-03-14,274
+Packages,,use-state-snapshots,https://github.com/haydn/use-state-snapshots,A React hook to keep track of state changes for undo/redo functionality.,,11,2023-02-03,275
+Packages,,use-substate,https://github.com/philipp-spiess/use-substate,React hook for subscribing to your single app state (works with your current Redux app).,,100,2018-11-17,276
+Packages,,use-suspender,https://github.com/octet-stream/use-suspender,Execute asynchronous actions with `React.Suspense`,,17,2024-09-18,277
+Packages,,use-t,https://github.com/streamich/use-t,Multi-language using hooks.,,47,2025-09-15,278
+Packages,,use-undo,https://github.com/xxhomey19/use-undo,React hook to implement Undo and Redo functionality.,,416,2026-06-17,279
+Packages,,use-videocard,https://github.com/BRA1L0R/use-videocard,React hook to fetch the graphics card information of the client using canvas.,,,,280
+Packages,,use-window-blur-change-title,https://github.com/cyntler/use-window-blur-change-title,React Hook for set the page title when the user is shifting focus away from the current window.,,,2022-08-12,281
+Packages,,useDarkMode,https://github.com/donavon/use-dark-mode,"A custom React Hook to help you implement a ""dark mode"" component.",,1282,2023-01-03,282
+Packages,,useDeferredState,https://github.com/phytonmk/useDeferredState,A React hook for deferring state change. That's essential when your UI needs to wait for disappearing animation is complete to unmount component.,,3,2021-02-28,283
+Packages,,useDropZone,https://github.com/sbaidon/useDropZone,React hook that allows you to set simple drag and drop functionality.,,5,2023-07-19,284
+Packages,,useEmailAutocomplete,https://github.com/alex-cory/use-email-autocomplete,📬 React hook for email autocomplete inputs.,,36,2019-12-05,285
+Packages,,useFileDialog,https://github.com/omidnikrah/use-file-dialog,file dialog without struggling with file input using useFileDialog react hook,Open,7,2021-09-04,286
+Packages,,useInView,https://github.com/thebuilder/react-intersection-observer,React implementation of the Intersection Observer API to tell you when an element enters or leaves the viewport.,,5538,2026-09-11,287
+Packages,,useIsTyping,https://github.com/KATT/use-is-typing,Hook to see if the user is typing within a textarea or input,,11,,288
+Packages,,useKeyCapture,https://github.com/pranesh239/use-key-capture,⌨️ A simple hook to make keyDown listening event easier.,,24,2025-02-22,289
+Packages,,usePosition,https://github.com/tranbathanhtung/usePosition,React hook to get position top left of an element.,,23,2018-10-29,290
+Packages,,useReducerWithEffects,https://github.com/frankiesardo/use-reducer-with-effects,React Hook that colocates reducer and side effects.,,,,291
+Packages,,useReducerWithLocalStorage,https://github.com/Tweries/useReducerWithLocalStorage,React hook that adds local storage support to the `useReducer` hook,,0,2020-05-06,292
+Packages,,useScreenType,https://github.com/pankod/react-hooks-screen-type,Determining screen size type for Bootstrap 4 grid.,,15,2018-12-27,293
+Packages,,useScreenType,https://github.com/wednesday-solutions/react-screentype-hook,"React hook to dynamically get current screen type (mobile, tablet, desktop) with configurable breakpoint support.",,11,2023-03-04,294
+Packages,,useScrollSpy,https://github.com/Purii/react-use-scrollspy,React hook to automatically update navigation based on scroll position.,,314,2024-08-15,295
+Packages,,useServiceWorker,https://github.com/JCofman/react-hook-use-service-worker,A React hook which can register a service worker,,15,2023-08-09,296
+Packages,,useValueAfter,https://github.com/bboydflo/use-value-after,Very simple React hook to easily provide different props to a component (comes in handy for testing edge cases),,2,2023-01-04,297
+Packages,,useWaitForElements,https://github.com/renansoares/useWaitForElements,A simple hook to wait for elements to be rendered with MutationObserver.,,2,2021-03-17,298
+Packages,,useWindowOrientation,https://github.com/tywmick/use-window-orientation,A hook returning the window's orientation (portrait vs. landscape) based off of current window dimensions,,5,2021-10-30,299
+Packages,,useWindowWidthBreakpoints,https://github.com/tywmick/use-window-width-breakpoints,A hook for using (Bootstrap-inspired) window width breakpoints,,7,2023-01-07,300

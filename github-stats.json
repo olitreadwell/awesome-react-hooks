@@ -1,0 +1,1085 @@
+{
+  "generated_at": "2026-09-24",
+  "repos": {
+    "21kb/react-hooks": {
+      "stars": 55,
+      "pushed_at": "2026-07-31",
+      "archived": false
+    },
+    "Andarist/react-selector-hooks": {
+      "stars": 85,
+      "pushed_at": "2018-10-29",
+      "archived": false
+    },
+    "AvraamMavridis/react-intersection-visible-hook": {
+      "stars": 48,
+      "pushed_at": "2018-10-30",
+      "archived": false
+    },
+    "AvraamMavridis/react-window-communication-hook": {
+      "stars": 91,
+      "pushed_at": "2020-12-28",
+      "archived": false
+    },
+    "CharlesStover/fetch-suspense": {
+      "stars": 491,
+      "pushed_at": "2022-02-11",
+      "archived": true
+    },
+    "CharlesStover/use-clippy": {
+      "stars": 177,
+      "pushed_at": "2022-11-09",
+      "archived": false
+    },
+    "CharlesStover/use-dimensions": {
+      "stars": 31,
+      "pushed_at": "2022-11-28",
+      "archived": true
+    },
+    "CharlesStover/use-force-update": {
+      "stars": 184,
+      "pushed_at": "2025-11-12",
+      "archived": false
+    },
+    "CharlesStover/use-react-router": {
+      "stars": 563,
+      "pushed_at": "2022-09-19",
+      "archived": true
+    },
+    "CurationCorp/react-use-infinite-loader": {
+      "stars": 14,
+      "pushed_at": "2021-11-12",
+      "archived": false
+    },
+    "GeDiez/react-use-formless": {
+      "stars": 50,
+      "pushed_at": "2022-06-04",
+      "archived": false
+    },
+    "JCofman/react-hook-use-service-worker": {
+      "stars": 15,
+      "pushed_at": "2023-08-09",
+      "archived": false
+    },
+    "JohannesKlauss/react-hotkeys-hook": {
+      "stars": 3504,
+      "pushed_at": "2026-09-21",
+      "archived": false
+    },
+    "JohannesKlauss/react-use-fetch-factory": {
+      "stars": 3,
+      "pushed_at": "2023-01-27",
+      "archived": false
+    },
+    "KATT/use-is-typing": {
+      "stars": 11,
+      "pushed_at": "2020-12-22",
+      "archived": true
+    },
+    "LeetCode-OpenSource/rxjs-hooks": {
+      "stars": 2177,
+      "pushed_at": "2023-04-07",
+      "archived": false
+    },
+    "MarvelSQ/use-properties-hook": {
+      "stars": 6,
+      "pushed_at": "2019-03-10",
+      "archived": false
+    },
+    "MikeyParton/react-speech-kit": {
+      "stars": 246,
+      "pushed_at": "2023-07-01",
+      "archived": false
+    },
+    "Purii/react-use-scrollspy": {
+      "stars": 314,
+      "pushed_at": "2024-08-15",
+      "archived": false
+    },
+    "RyanFitzgerald/react-page-name": {
+      "stars": 4,
+      "pushed_at": "2023-01-04",
+      "archived": false
+    },
+    "RyanRoll/react-use-api": {
+      "stars": 63,
+      "pushed_at": "2023-01-06",
+      "archived": false
+    },
+    "Turkyden/react-darkreader": {
+      "stars": 279,
+      "pushed_at": "2023-04-13",
+      "archived": false
+    },
+    "Tweries/useReducerWithLocalStorage": {
+      "stars": 0,
+      "pushed_at": "2020-05-06",
+      "archived": false
+    },
+    "Yaska/react-use-id-hook": {
+      "stars": 5,
+      "pushed_at": "2026-02-13",
+      "archived": false
+    },
+    "ahooksjs/useTable": {
+      "stars": 46,
+      "pushed_at": "2022-11-19",
+      "archived": false
+    },
+    "aiven715/promise-hook": {
+      "stars": 52,
+      "pushed_at": "2019-11-15",
+      "archived": false
+    },
+    "alewin/useWorker": {
+      "stars": 3112,
+      "pushed_at": "2026-06-06",
+      "archived": false
+    },
+    "alex-cory/react-useportal": {
+      "stars": 886,
+      "pushed_at": "2026-07-14",
+      "archived": false
+    },
+    "alex-cory/use-email-autocomplete": {
+      "stars": 36,
+      "pushed_at": "2019-12-05",
+      "archived": false
+    },
+    "alex-cory/use-http": {
+      "stars": 2298,
+      "pushed_at": "2024-02-07",
+      "archived": false
+    },
+    "alex-cory/use-react-modal": {
+      "stars": 79,
+      "pushed_at": "2023-01-07",
+      "archived": false
+    },
+    "alex-cory/use-ssr": {
+      "stars": 263,
+      "pushed_at": "2023-03-14",
+      "archived": false
+    },
+    "alexkhismatulin/react-use-count-down": {
+      "stars": 75,
+      "pushed_at": "2024-03-01",
+      "archived": false
+    },
+    "alibaba/hooks": {
+      "stars": 14974,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "amorriscode/use-overflow": {
+      "stars": 30,
+      "pushed_at": "2023-04-08",
+      "archived": false
+    },
+    "andy9775/react-declare-form": {
+      "stars": 0,
+      "pushed_at": "2018-11-18",
+      "archived": false
+    },
+    "ant-design/sunflower": {
+      "stars": 490,
+      "pushed_at": "2023-02-04",
+      "archived": false
+    },
+    "antoinejaussoin/jooks": {
+      "stars": 82,
+      "pushed_at": "2023-03-15",
+      "archived": false
+    },
+    "avkonst/hookstate": {
+      "stars": 1652,
+      "pushed_at": "2025-03-20",
+      "archived": false
+    },
+    "awmleer/use-action": {
+      "stars": 15,
+      "pushed_at": "2022-12-03",
+      "archived": false
+    },
+    "awmleer/use-async-memo": {
+      "stars": 146,
+      "pushed_at": "2023-12-01",
+      "archived": false
+    },
+    "bboydflo/use-value-after": {
+      "stars": 2,
+      "pushed_at": "2023-01-04",
+      "archived": false
+    },
+    "bdbch/react-devto": {
+      "stars": 20,
+      "pushed_at": "2020-07-09",
+      "archived": false
+    },
+    "bdbch/react-github": {
+      "stars": 10,
+      "pushed_at": "2019-08-14",
+      "archived": false
+    },
+    "bdbch/react-localstorage": {
+      "stars": 12,
+      "pushed_at": "2023-05-06",
+      "archived": false
+    },
+    "beizhedenglong/react-hooks-lib": {
+      "stars": 542,
+      "pushed_at": "2021-08-06",
+      "archived": false
+    },
+    "bluebill1049/react-hook-form": {
+      "stars": 44865,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "brn/rrh": {
+      "stars": 14,
+      "pushed_at": "2019-03-20",
+      "archived": false
+    },
+    "chrisjpatty/crooks": {
+      "stars": 214,
+      "pushed_at": "2023-03-19",
+      "archived": false
+    },
+    "ckedwards/react-form-stateful": {
+      "stars": 2,
+      "pushed_at": "2019-08-12",
+      "archived": true
+    },
+    "codeshake/react-deep-hooks": {
+      "stars": 4,
+      "pushed_at": "2025-10-25",
+      "archived": false
+    },
+    "concentjs/concent": {
+      "stars": 1387,
+      "pushed_at": "2026-07-20",
+      "archived": false
+    },
+    "contra/react-responsive": {
+      "stars": 7176,
+      "pushed_at": "2025-03-01",
+      "archived": false
+    },
+    "craig1123/react-recipes": {
+      "stars": 1045,
+      "pushed_at": "2025-05-23",
+      "archived": false
+    },
+    "crossroads-loyalty-solutions/react-use-browser": {
+      "stars": 5,
+      "pushed_at": "2020-06-26",
+      "archived": false
+    },
+    "csfrequency/react-firebase-hooks": {
+      "stars": 3631,
+      "pushed_at": "2024-04-22",
+      "archived": false
+    },
+    "ctrlplusb/easy-peasy": {
+      "stars": 5040,
+      "pushed_at": "2026-06-30",
+      "archived": false
+    },
+    "cyntler/use-window-blur-change-title": {
+      "stars": 1,
+      "pushed_at": "2022-08-12",
+      "archived": false
+    },
+    "d-asensio/use-controlled-input-number": {
+      "stars": 3,
+      "pushed_at": "2022-03-07",
+      "archived": false
+    },
+    "dai-shi/react-hooks-async": {
+      "stars": 494,
+      "pushed_at": "2023-03-04",
+      "archived": false
+    },
+    "dai-shi/react-hooks-global-state": {
+      "stars": 1096,
+      "pushed_at": "2023-08-29",
+      "archived": false
+    },
+    "dai-shi/react-hooks-worker": {
+      "stars": 711,
+      "pushed_at": "2023-03-05",
+      "archived": false
+    },
+    "dai-shi/react-tracked": {
+      "stars": 2820,
+      "pushed_at": "2026-05-19",
+      "archived": false
+    },
+    "dai-shi/reactive-react-redux": {
+      "stars": 500,
+      "pushed_at": "2024-01-12",
+      "archived": false
+    },
+    "dai-shi/use-context-selector": {
+      "stars": 2960,
+      "pushed_at": "2026-06-08",
+      "archived": false
+    },
+    "dai-shi/use-reducer-async": {
+      "stars": 184,
+      "pushed_at": "2026-05-19",
+      "archived": false
+    },
+    "daniel-dx/nice-hooks": {
+      "stars": 48,
+      "pushed_at": "2023-05-28",
+      "archived": false
+    },
+    "danieldelcore/trousers": {
+      "stars": 299,
+      "pushed_at": "2025-06-11",
+      "archived": false
+    },
+    "danoc/react-use-clipboard": {
+      "stars": 262,
+      "pushed_at": "2023-10-24",
+      "archived": false
+    },
+    "davidicus/use-lang-direction": {
+      "stars": 1,
+      "pushed_at": "2023-04-04",
+      "archived": false
+    },
+    "dejorrit/scroll-data-hook": {
+      "stars": 141,
+      "pushed_at": "2023-01-05",
+      "archived": false
+    },
+    "diegohaz/constate": {
+      "stars": 4006,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "dimitrinicolas/use-mouse-action": {
+      "stars": 23,
+      "pushed_at": "2020-12-11",
+      "archived": false
+    },
+    "dispix/react-pirate": {
+      "stars": 52,
+      "pushed_at": "2021-08-11",
+      "archived": false
+    },
+    "dogfessional/react-swipeable": {
+      "stars": 2112,
+      "pushed_at": "2024-12-23",
+      "archived": false
+    },
+    "donavon/use-dark-mode": {
+      "stars": 1282,
+      "pushed_at": "2023-01-03",
+      "archived": false
+    },
+    "elgorditosalsero/react-gtm-hook": {
+      "stars": 223,
+      "pushed_at": "2024-07-04",
+      "archived": false
+    },
+    "f/react-wait": {
+      "stars": 305,
+      "pushed_at": "2019-08-22",
+      "archived": false
+    },
+    "flepretre/use-redux": {
+      "stars": 62,
+      "pushed_at": "2019-06-13",
+      "archived": true
+    },
+    "fodau/conuse": {
+      "stars": 8,
+      "pushed_at": "2023-01-07",
+      "archived": false
+    },
+    "geobde/use-click-away": {
+      "stars": 79,
+      "pushed_at": "2026-05-09",
+      "archived": false
+    },
+    "gffuma/use-eazy-auth": {
+      "stars": 57,
+      "pushed_at": "2026-02-20",
+      "archived": false
+    },
+    "gregnb/react-use-calendar": {
+      "stars": 56,
+      "pushed_at": "2019-03-01",
+      "archived": false
+    },
+    "gregnb/use-detect-print": {
+      "stars": 59,
+      "pushed_at": "2023-01-03",
+      "archived": false
+    },
+    "haydn/use-state-snapshots": {
+      "stars": 11,
+      "pushed_at": "2023-02-03",
+      "archived": false
+    },
+    "helderburato/use-is-mounted-ref": {
+      "stars": 44,
+      "pushed_at": "2026-09-15",
+      "archived": false
+    },
+    "hupe1980/react-recaptcha-hook": {
+      "stars": 25,
+      "pushed_at": "2023-02-04",
+      "archived": false
+    },
+    "hupe1980/react-script-hook": {
+      "stars": 128,
+      "pushed_at": "2023-04-07",
+      "archived": false
+    },
+    "iam-frankqiu/react-use-watch": {
+      "stars": 3,
+      "pushed_at": "2021-08-19",
+      "archived": false
+    },
+    "iamgyz/use-socket.io-client": {
+      "stars": 51,
+      "pushed_at": "2020-04-03",
+      "archived": false
+    },
+    "ianobermiller/redux-react-hook": {
+      "stars": 37,
+      "pushed_at": "2018-11-09",
+      "archived": true
+    },
+    "ilyalesik/react-fetch-hook": {
+      "stars": 350,
+      "pushed_at": "2023-01-06",
+      "archived": false
+    },
+    "ilyalesik/react-use-trigger": {
+      "stars": 26,
+      "pushed_at": "2023-03-02",
+      "archived": false
+    },
+    "imbhargav5/rehooks-visibility-sensor": {
+      "stars": 13,
+      "pushed_at": "2018-11-29",
+      "archived": false
+    },
+    "inmagik/react-rocketjump": {
+      "stars": 6,
+      "pushed_at": "2023-03-04",
+      "archived": false
+    },
+    "inokawa/react-native-react-bridge": {
+      "stars": 298,
+      "pushed_at": "2026-06-13",
+      "archived": false
+    },
+    "inokawa/react-use-d3": {
+      "stars": 7,
+      "pushed_at": "2022-06-14",
+      "archived": true
+    },
+    "intercaetera/react-use-message-bar": {
+      "stars": 11,
+      "pushed_at": "2026-04-15",
+      "archived": false
+    },
+    "its-danny/use-lilius": {
+      "stars": 275,
+      "pushed_at": "2024-09-01",
+      "archived": false
+    },
+    "iusehooks/redhooks": {
+      "stars": 145,
+      "pushed_at": "2019-02-11",
+      "archived": false
+    },
+    "j-a-y-h/react-uniformed": {
+      "stars": 6,
+      "pushed_at": "2023-01-07",
+      "archived": false
+    },
+    "jorisre/react-screen-wake-lock": {
+      "stars": 80,
+      "pushed_at": "2025-04-15",
+      "archived": false
+    },
+    "jschloer/use-multiselect": {
+      "stars": 8,
+      "pushed_at": "2023-01-03",
+      "archived": false
+    },
+    "juliettepretot/hook-into-props": {
+      "stars": 47,
+      "pushed_at": "2023-02-28",
+      "archived": false
+    },
+    "kalcifer/react-powerhooks": {
+      "stars": 99,
+      "pushed_at": "2022-12-09",
+      "archived": false
+    },
+    "kentcdodds/use-deep-compare-effect": {
+      "stars": 1917,
+      "pushed_at": "2024-08-21",
+      "archived": false
+    },
+    "kigiri/react-use-idb": {
+      "stars": 44,
+      "pushed_at": "2020-05-11",
+      "archived": false
+    },
+    "kitze/react-hanger": {
+      "stars": 1929,
+      "pushed_at": "2026-09-18",
+      "archived": false
+    },
+    "kmkzt/react-hooks-svgdrawing": {
+      "stars": 202,
+      "pushed_at": "2026-02-28",
+      "archived": false
+    },
+    "kmkzt/react-hooks-visible": {
+      "stars": 29,
+      "pushed_at": "2026-02-25",
+      "archived": false
+    },
+    "kmoskwiak/useSSE": {
+      "stars": 143,
+      "pushed_at": "2024-07-05",
+      "archived": false
+    },
+    "latviancoder/hooks-by-example": {
+      "stars": 135,
+      "pushed_at": "2019-10-31",
+      "archived": false
+    },
+    "lessmess-agency/react-media-hook": {
+      "stars": 61,
+      "pushed_at": "2026-04-02",
+      "archived": false
+    },
+    "lordgiotto/react-metatags-hook": {
+      "stars": 37,
+      "pushed_at": "2024-06-18",
+      "archived": false
+    },
+    "mamal72/react-optimistic-ui-hook": {
+      "stars": 24,
+      "pushed_at": "2023-01-05",
+      "archived": false
+    },
+    "marceloadsj/react-indicative-hooks": {
+      "stars": 6,
+      "pushed_at": "2021-08-19",
+      "archived": true
+    },
+    "mauricedb/use-abortable-fetch": {
+      "stars": 159,
+      "pushed_at": "2026-09-16",
+      "archived": false
+    },
+    "mcclayton/react-state-patterns": {
+      "stars": 16,
+      "pushed_at": "2023-01-07",
+      "archived": false
+    },
+    "megazazik/react-cached-callback": {
+      "stars": 10,
+      "pushed_at": "2025-11-15",
+      "archived": false
+    },
+    "megazazik/react-context-refs": {
+      "stars": 22,
+      "pushed_at": "2025-11-15",
+      "archived": false
+    },
+    "mfrachet/server-push-hooks": {
+      "stars": 193,
+      "pushed_at": "2023-11-14",
+      "archived": false
+    },
+    "mkosir/react-hook-mighty-mouse": {
+      "stars": 125,
+      "pushed_at": "2022-01-15",
+      "archived": false
+    },
+    "mobxjs/mobx-react-lite": {
+      "stars": 2118,
+      "pushed_at": "2020-12-30",
+      "archived": true
+    },
+    "momentechnologies/moment-hooks": {
+      "stars": 8,
+      "pushed_at": "2023-07-24",
+      "archived": false
+    },
+    "moxystudio/react-promiseful": {
+      "stars": 9,
+      "pushed_at": "2020-03-15",
+      "archived": false
+    },
+    "mweststrate/use-immer": {
+      "stars": 4552,
+      "pushed_at": "2024-12-17",
+      "archived": false
+    },
+    "mykolaharmash/use-boolean": {
+      "stars": 11,
+      "pushed_at": "2020-07-08",
+      "archived": false
+    },
+    "nearform/graphql-hooks": {
+      "stars": 1887,
+      "pushed_at": "2026-09-01",
+      "archived": false
+    },
+    "neighborhood999/use-input-file": {
+      "stars": 3,
+      "pushed_at": "2023-01-08",
+      "archived": false
+    },
+    "neo/react-use-scroll-position": {
+      "stars": 44,
+      "pushed_at": "2019-06-01",
+      "archived": false
+    },
+    "octet-stream/use-suspender": {
+      "stars": 17,
+      "pushed_at": "2024-09-18",
+      "archived": false
+    },
+    "oktaysenkan/use-countries": {
+      "stars": 25,
+      "pushed_at": "2020-03-14",
+      "archived": false
+    },
+    "omidnikrah/use-file-dialog": {
+      "stars": 7,
+      "pushed_at": "2021-09-04",
+      "archived": false
+    },
+    "palmerhq/the-platform": {
+      "stars": 4369,
+      "pushed_at": "2022-12-09",
+      "archived": false
+    },
+    "pankod/react-hooks-screen-type": {
+      "stars": 15,
+      "pushed_at": "2018-12-27",
+      "archived": false
+    },
+    "pbeshai/use-query-params": {
+      "stars": 2235,
+      "pushed_at": "2026-01-21",
+      "archived": false
+    },
+    "perlin-network/react-use-wavelet": {
+      "stars": 5,
+      "pushed_at": "2020-09-12",
+      "archived": true
+    },
+    "philipp-spiess/use-substate": {
+      "stars": 100,
+      "pushed_at": "2018-11-17",
+      "archived": false
+    },
+    "phytonmk/useDeferredState": {
+      "stars": 3,
+      "pushed_at": "2021-02-28",
+      "archived": false
+    },
+    "pranesh239/use-key-capture": {
+      "stars": 24,
+      "pushed_at": "2025-02-22",
+      "archived": false
+    },
+    "react-hookz/web": {
+      "stars": 2216,
+      "pushed_at": "2026-09-24",
+      "archived": false
+    },
+    "react-rekindle/use-request": {
+      "stars": 21,
+      "pushed_at": "2023-01-07",
+      "archived": false
+    },
+    "reactivestack/cookies": {
+      "stars": 215,
+      "pushed_at": "2026-05-09",
+      "archived": false
+    },
+    "reactjs/rfcs": {
+      "stars": 5811,
+      "pushed_at": "2024-06-11",
+      "archived": false
+    },
+    "regionjs/region-core": {
+      "stars": 117,
+      "pushed_at": "2026-06-08",
+      "archived": false
+    },
+    "rehooks/component-size": {
+      "stars": 238,
+      "pushed_at": "2023-02-05",
+      "archived": false
+    },
+    "rehooks/document-title": {
+      "stars": 60,
+      "pushed_at": "2021-09-01",
+      "archived": false
+    },
+    "rehooks/document-visibility": {
+      "stars": 29,
+      "pushed_at": "2018-12-06",
+      "archived": false
+    },
+    "rehooks/input-value": {
+      "stars": 111,
+      "pushed_at": "2021-09-01",
+      "archived": false
+    },
+    "rehooks/local-storage": {
+      "stars": 569,
+      "pushed_at": "2023-08-23",
+      "archived": false
+    },
+    "rehooks/network-status": {
+      "stars": 66,
+      "pushed_at": "2021-09-01",
+      "archived": false
+    },
+    "rehooks/online-status": {
+      "stars": 123,
+      "pushed_at": "2022-02-11",
+      "archived": false
+    },
+    "rehooks/window-scroll-position": {
+      "stars": 82,
+      "pushed_at": "2021-09-01",
+      "archived": false
+    },
+    "rehooks/window-size": {
+      "stars": 131,
+      "pushed_at": "2021-09-01",
+      "archived": false
+    },
+    "renansoares/useWaitForElements": {
+      "stars": 2,
+      "pushed_at": "2021-03-17",
+      "archived": false
+    },
+    "rkrupinski/use-state-machine": {
+      "stars": 18,
+      "pushed_at": "2023-01-19",
+      "archived": false
+    },
+    "robcalcroft/react-use-input": {
+      "stars": 5,
+      "pushed_at": "2023-03-04",
+      "archived": false
+    },
+    "robcalcroft/react-use-lazy-load-image": {
+      "stars": 15,
+      "pushed_at": "2023-01-04",
+      "archived": false
+    },
+    "salvoravida/react-universal-hooks": {
+      "stars": 187,
+      "pushed_at": "2023-01-06",
+      "archived": false
+    },
+    "samjbmason/use-cart": {
+      "stars": 31,
+      "pushed_at": "2023-01-03",
+      "archived": true
+    },
+    "sandiiarov/use-deep-compare": {
+      "stars": 259,
+      "pushed_at": "2026-08-11",
+      "archived": false
+    },
+    "sandiiarov/use-events": {
+      "stars": 494,
+      "pushed_at": "2026-09-18",
+      "archived": false
+    },
+    "sandiiarov/use-hotkeys": {
+      "stars": 17,
+      "pushed_at": "2020-12-11",
+      "archived": true
+    },
+    "sandiiarov/use-popper": {
+      "stars": 37,
+      "pushed_at": "2020-07-10",
+      "archived": true
+    },
+    "sandiiarov/use-simple-undo": {
+      "stars": 30,
+      "pushed_at": "2026-09-18",
+      "archived": false
+    },
+    "sbaidon/useDropZone": {
+      "stars": 5,
+      "pushed_at": "2023-07-19",
+      "archived": false
+    },
+    "schettino/react-request-hook": {
+      "stars": 113,
+      "pushed_at": "2022-12-09",
+      "archived": false
+    },
+    "sergey-s/use-axios-react": {
+      "stars": 32,
+      "pushed_at": "2023-01-04",
+      "archived": false
+    },
+    "shibe97/react-hooks-use-modal": {
+      "stars": 170,
+      "pushed_at": "2026-07-15",
+      "archived": false
+    },
+    "shiningjason/react-enhanced-reducer-hook": {
+      "stars": 70,
+      "pushed_at": "2024-08-30",
+      "archived": false
+    },
+    "sin/react-immer-hooks": {
+      "stars": 45,
+      "pushed_at": "2018-10-27",
+      "archived": false
+    },
+    "slorber/react-async-hook": {
+      "stars": 1187,
+      "pushed_at": "2023-07-08",
+      "archived": false
+    },
+    "smmoosavi/react-use-data-loader": {
+      "stars": 22,
+      "pushed_at": "2021-09-21",
+      "archived": false
+    },
+    "staltz/use-profunctor-state": {
+      "stars": 331,
+      "pushed_at": "2020-01-13",
+      "archived": false
+    },
+    "stevenpersia/captain-hook": {
+      "stars": 361,
+      "pushed_at": "2021-04-18",
+      "archived": false
+    },
+    "streamich/react-use": {
+      "stars": 44010,
+      "pushed_at": "2026-06-10",
+      "archived": false
+    },
+    "streamich/use-media": {
+      "stars": 524,
+      "pushed_at": "2025-09-14",
+      "archived": false
+    },
+    "streamich/use-t": {
+      "stars": 47,
+      "pushed_at": "2025-09-15",
+      "archived": false
+    },
+    "style-hook/style-hook": {
+      "stars": 14,
+      "pushed_at": "2023-01-05",
+      "archived": true
+    },
+    "tannerlinsley/react-query": {
+      "stars": 50353,
+      "pushed_at": "2026-09-23",
+      "archived": false
+    },
+    "thebuilder/react-intersection-observer": {
+      "stars": 5538,
+      "pushed_at": "2026-09-11",
+      "archived": false
+    },
+    "therealparmesh/use-hovering": {
+      "stars": 13,
+      "pushed_at": "2026-09-18",
+      "archived": false
+    },
+    "tranbathanhtung/usePosition": {
+      "stars": 23,
+      "pushed_at": "2018-10-29",
+      "archived": false
+    },
+    "tudorgergely/use-scroll-to-bottom": {
+      "stars": 108,
+      "pushed_at": "2023-04-18",
+      "archived": false
+    },
+    "tylervipond/use-as-bind": {
+      "stars": 66,
+      "pushed_at": "2024-04-23",
+      "archived": false
+    },
+    "tywmick/use-window-orientation": {
+      "stars": 5,
+      "pushed_at": "2021-10-30",
+      "archived": false
+    },
+    "tywmick/use-window-width-breakpoints": {
+      "stars": 7,
+      "pushed_at": "2023-01-07",
+      "archived": false
+    },
+    "upmostly/modali": {
+      "stars": 210,
+      "pushed_at": "2022-12-09",
+      "archived": false
+    },
+    "use-hooks/react-hooks-image-size": {
+      "stars": 18,
+      "pushed_at": "2019-05-16",
+      "archived": false
+    },
+    "vardius/react-peer-data": {
+      "stars": 20,
+      "pushed_at": "2022-12-10",
+      "archived": false
+    },
+    "vardius/react-user-media": {
+      "stars": 20,
+      "pushed_at": "2022-12-10",
+      "archived": false
+    },
+    "venil7/react-usemiddleware": {
+      "stars": 18,
+      "pushed_at": "2018-12-02",
+      "archived": false
+    },
+    "webmail/use-last-fm": {
+      "stars": 122,
+      "pushed_at": "2024-04-20",
+      "archived": false
+    },
+    "webscopeio/react-health-check": {
+      "stars": 35,
+      "pushed_at": "2023-03-06",
+      "archived": false
+    },
+    "wednesday-solutions/react-screentype-hook": {
+      "stars": 11,
+      "pushed_at": "2023-03-04",
+      "archived": false
+    },
+    "wellyshen/react-cool-dimensions": {
+      "stars": 934,
+      "pushed_at": "2023-08-12",
+      "archived": false
+    },
+    "wellyshen/react-cool-form": {
+      "stars": 244,
+      "pushed_at": "2022-07-27",
+      "archived": true
+    },
+    "wellyshen/react-cool-inview": {
+      "stars": 1451,
+      "pushed_at": "2023-08-12",
+      "archived": false
+    },
+    "wellyshen/react-cool-onclickoutside": {
+      "stars": 551,
+      "pushed_at": "2023-08-12",
+      "archived": false
+    },
+    "wellyshen/react-cool-portal": {
+      "stars": 731,
+      "pushed_at": "2023-08-12",
+      "archived": false
+    },
+    "wellyshen/react-cool-virtual": {
+      "stars": 1221,
+      "pushed_at": "2023-08-12",
+      "archived": false
+    },
+    "wellyshen/use-places-autocomplete": {
+      "stars": 1292,
+      "pushed_at": "2025-04-02",
+      "archived": false
+    },
+    "wellyshen/use-web-animations": {
+      "stars": 1270,
+      "pushed_at": "2023-08-12",
+      "archived": false
+    },
+    "withvoid/melting-pot": {
+      "stars": 59,
+      "pushed_at": "2022-12-30",
+      "archived": true
+    },
+    "wowlusitong/react-use-modal": {
+      "stars": 20,
+      "pushed_at": "2023-01-26",
+      "archived": false
+    },
+    "wsmd/react-use-form-state": {
+      "stars": 927,
+      "pushed_at": "2023-01-04",
+      "archived": false
+    },
+    "xnimorz/use-debounce": {
+      "stars": 3385,
+      "pushed_at": "2026-09-11",
+      "archived": false
+    },
+    "xxhomey19/use-undo": {
+      "stars": 416,
+      "pushed_at": "2026-06-17",
+      "archived": false
+    },
+    "yesmeck/react-with-hooks": {
+      "stars": 153,
+      "pushed_at": "2019-02-15",
+      "archived": false
+    },
+    "ytiurin/react-hook-layout": {
+      "stars": 18,
+      "pushed_at": "2023-01-06",
+      "archived": false
+    },
+    "zakariaharti/react-hookedup": {
+      "stars": 87,
+      "pushed_at": "2023-01-04",
+      "archived": false
+    },
+    "zattoo/use-double-click": {
+      "stars": 19,
+      "pushed_at": "2026-05-27",
+      "archived": false
+    },
+    "zcallan/use-browser-history": {
+      "stars": 3,
+      "pushed_at": "2019-02-15",
+      "archived": false
+    },
+    "zeit/swr": {
+      "stars": 32489,
+      "pushed_at": "2026-09-22",
+      "archived": false
+    },
+    "zhangkaiyulw/react-use-path": {
+      "stars": 21,
+      "pushed_at": "2025-01-05",
+      "archived": false
+    },
+    "zhixiaoqiang/react-request-hook": {
+      "stars": 11,
+      "pushed_at": "2023-06-29",
+      "archived": false
+    }
+  }
+}
